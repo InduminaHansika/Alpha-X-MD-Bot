@@ -26,8 +26,8 @@
             "NOT_FOUND_PLUGIN": "*Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.*",
             "DELETED": "*✅ Module successfully deleted!*",
             "WARN": "Get plugins only from https://t.me/AlphaX_plugin.",
-            "PVTNAME": "≪━─━─━─━─🖲️─━─━─━─━≫\n  *🚀 Ａｌｐｈａ-Ｘ- Pʀɪᴠᴀᴛᴇ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝",
-            "PUBNAME": "≪━─━─━─━─🖲️─━─━─━─━≫\n  *🚀 Ａｌｐｈａ-Ｘ- Pᴜʙʟɪᴄ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
+            "PVTNAME": "≪━─━─━─━─🖲️─━─━─━─━≫\n  *🚀 X O F I Y-Ｘ- Pʀɪᴠᴀᴛᴇ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝",
+            "PUBNAME": "≪━─━─━─━─🖲️─━─━─━─━≫\n  *🚀 X O F I Y-Ｘ- Pᴜʙʟɪᴄ 🛸*\n        ╚╩══• •✠•❀•✠ • •══╩╝"
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
