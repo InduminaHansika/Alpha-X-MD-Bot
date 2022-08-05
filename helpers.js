@@ -1,13 +1,13 @@
 function successfullMessage(msg) {
-    return "✅ *Alpha-X*:  ```" + msg + "```"
+    return "✅ *Xofiy-X*:  ```" + msg + "```"
 }
 
 function errorMessage(msg) {
-    return "🛑 *Alpha-X*:  ```" + msg + "```"
+    return "🛑 *Xofiy-X*:  ```" + msg + "```"
 }
 
 function infoMessage(msg) {
-    return "⏺️ *Alpha-X*:  ```" + msg + "```"
+    return "⏺️ *Xofiy-X*:  ```" + msg + "```"
 }
 
 
